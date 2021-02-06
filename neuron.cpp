@@ -4,7 +4,6 @@
 #define MAX_SIZE 30
 using namespace std;
 
-// Murat Emre Çolak 150180061 Hatice Köse
 
 int biggest_layer(int*);
 
