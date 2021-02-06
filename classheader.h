@@ -1,10 +1,6 @@
 #include <iostream>
 #define MAX_COURIERS 10
-/*
-Murat Emre Çolak
-150180061
-Hatice Köse
-*/
+
 using namespace std;
 
 class Person {
